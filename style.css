@@ -1,0 +1,356 @@
+* {
+    height: auto;
+    width: auto;
+}
+
+
+.navbar {
+    width: 100%;
+    height: 3em;
+    background-color: #C4C4C4;
+    
+}
+
+.nav-konten {
+    float: left;
+    margin-left: 20em;
+}
+
+.nav-jarak {
+    padding-left: 20px;
+    color: #000000;
+}
+
+.burger {
+    margin-left: 14em;
+    padding-right: 1em;
+    color: #000000;
+    float: right;
+}
+
+.menu-burger {
+    color: #000000;
+}
+
+
+.nav-atas {
+    margin-top: 10px;
+}
+
+.search {
+    text-align: center;
+    width: 25em;
+    border-style: 0.5em;
+    color: #6d6d6d;
+}
+
+
+
+
+
+
+.judul {
+    width: 100%;
+    height: 5.5em;
+}
+
+.judul-1 {
+    float: left;
+    margin-top: 1em;
+}
+
+.judul-2 {
+    float: left;
+    margin-left: 1em;
+    margin-top: 1.5em;
+}
+
+.judul-3 {
+    float: right;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.judul-4 {
+    float: right;
+    margin-top: 1.5em;
+}
+
+.header {
+    background-color: #C4C4C4;
+    width: auto;
+    height: 43em;
+}
+
+.konten-kiri {
+    float: left;
+    height: 40em;
+    margin-left: 5%;
+    width: 45%;
+}
+
+.konten-kanan {
+    float: right;
+    height: 40em;
+    width: 50%;
+    float: right;
+    
+}
+
+.profil-foto {
+    margin-top: 5em;
+    width: 28em;
+    height: 34em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.my-foto {
+    width: 25em;
+    height: 31em;
+    padding-left: 4.5em;
+
+}
+
+#email-me-jarak {
+    margin-left: 2em;
+}
+
+
+.footer {
+    background-color: #95918E;
+    width: auto;
+    height: 15em;
+    color: white;
+}
+
+.education {
+    background-color: #908A83;
+    width: auto;
+    height: 15em;
+}
+
+.pendidikan{
+    padding-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.pendidikan-smk {
+    float: left;
+}
+
+.pendidikan-kuliah {
+    float: right;
+}
+
+
+.konten-project {
+    width: auto;
+    height: 3200px;
+    color: black;
+}
+
+.tengah-motivasi {
+    padding-left: 100px;
+    padding-right: 500px;
+}
+
+
+
+
+
+
+tr {
+    padding-top: 20px;
+}
+
+.fontmerah {
+    color: rgb(143, 5, 5);
+}
+
+.konten-1 {
+    margin-left: 100px;
+    margin-top: auto;
+    padding-top: 100px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+.ke1 {
+    margin-left: 20px;
+    color: #000000;
+}
+
+
+.color-h4 {
+    color: #DC7803;
+}
+
+.tengah {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+
+.button-2 {
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.learn-more {
+    padding: 20px 5px 20px 5px;
+    border: 1px  solid rgb(61, 60, 60);
+    background-color: #545151;
+
+}
+
+.email-me {
+    padding: 20px 5px 20px 5px;
+    margin-left: 50px;
+    margin-right: 100px;
+    border: 1px  solid rgb(61, 60, 60);
+    background-color: transparent;
+    
+}
+
+.email-mee{
+    color: #3E3939;
+}
+.teks-down {
+    color: #3E3939;
+}
+
+section a {
+    text-decoration: none;
+}
+
+.icon-down {
+    margin-left: 100px;
+    margin-top: 20px;
+    
+}
+
+.download-button {
+    width: 15px;
+    height: 15px;
+    padding-left: 0px;
+}
+
+
+.gambar-project {
+    height: 3000px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: auto;
+    color: #000000;
+}
+
+.project-gambar-1 {
+    width: 1100px;
+    height: 600px;
+}
+
+.project-1 {
+    text-align: center;
+}
+
+.project-gambar-2 {
+    width: 1100px;
+    height: 600px;
+}
+
+.project-2 {
+    text-align: center;
+}
+
+.project-gambar-3 {
+    width: 1100px;
+    height: 600px;
+}
+
+.project-3 {
+    text-align: center;
+}
+
+.project-gambar-4 {
+    width: 1100px;
+    height: 600px;
+}
+
+
+.project-4 {
+    text-align: center;
+}
+
+.donwload-web {
+    color: #000000;
+}
+.visist-web {
+    color: #000000;
+}
+
+.button-donw{
+    position: absolut;
+    width: 10px;
+    height: 12px;
+}
+
+
+.icon-foter {
+    height: 55px;
+}
+
+
+
+.icon-sosmed {
+    width: 29px;
+    height: 29px;
+}
+
+.footer-f a {
+    color: rgb(255, 255, 255);
+    padding-top: 5em;
+}
+
+.ikuti-saya {
+    margin-left: 2em;
+    float: left;
+    padding-top: 2em;
+}
+
+
+.kontak-saya {
+    margin-right: 2em;
+    float: right;
+    padding-top: 2em;
+}
+
+
+.fa-envelope {
+    margin-right: 1em;
+}
+
+.fa-whatsapp {
+    margin-right: 1em;
+}
+
+.copyright {
+    background-color: rgb(68, 170, 221);
+    width: 100%;
+    height: 3em;
+    position: fixed;
+    bottom: 0em;
+}
+
+.desain {
+    text-align: center;
+    padding-top: 0.5em;
+}
